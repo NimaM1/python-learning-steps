@@ -39,7 +39,7 @@ def main():
 
 def weather():
     # API info
-    APIkey = "68b64baca0631c6af9b62bde727a9469"
+    APIkey = "APIkey"
     city = input("Enter the city >>> ")
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={APIkey}"
     response = requests.get(url)
@@ -89,3 +89,4 @@ def search():
 
 
 main()
+
