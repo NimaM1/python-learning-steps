@@ -1,0 +1,18 @@
+[
+    {
+        "city": "alanya",
+        "temp": 293.24
+    },
+    {
+        "city": "isfahan",
+        "temp": 299.27
+    },
+    {
+        "city": "dubai",
+        "temp": 302.99
+    },
+    {
+        "city": "tehran",
+        "temp": 297.99
+    }
+]
