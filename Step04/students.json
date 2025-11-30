@@ -1,0 +1,17 @@
+{
+    "nima": {
+        "math": 20,
+        "literature": 18,
+        "science": 13
+    },
+    "nazi": {
+        "math": 19,
+        "literature": 15,
+        "science": 14
+    },
+    "omid": {
+        "math": 14,
+        "science": 18,
+        "literature": 16
+    }
+}
