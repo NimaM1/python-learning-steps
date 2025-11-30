@@ -1,0 +1,30 @@
+[
+    {
+        "from": "USD",
+        "to": "TRY",
+        "amount_converted": 50.0,
+        "convert_number": 1938.5,
+        "date_time": "2025-05-16 00-32-34"
+    },
+    {
+        "from": "USD",
+        "to": "TRY",
+        "amount_converted": 80.0,
+        "convert_number": 3098.885,
+        "date_time": "2025-05-16 09-54-12"
+    },
+    {
+        "from": "EUR",
+        "to": "TRY",
+        "amount_converted": 20.0,
+        "convert_number": 866.937,
+        "date_time": "2025-05-16 09-58-10"
+    },
+    {
+        "from": "EUR",
+        "to": "TRY",
+        "amount_converted": 98.0,
+        "convert_number": 4247.992,
+        "date_time": "2025-05-16 19-53-10"
+    }
+]
