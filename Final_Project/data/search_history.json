@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Breaking Bad",
+        "director": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg",
+        "date": "2025-05-27 17-30-35"
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+        "date": "2025-05-27 19-15-01"
+    },
+    {
+        "title": "Better Call Saul",
+        "director": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg",
+        "date": "2025-05-27 19-16-17"
+    },
+    {
+        "title": "Breaking Bad",
+        "director": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg",
+        "date": "2025-05-27 19-16-17"
+    },
+    {
+        "title": "Better Call Saul",
+        "director": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg",
+        "date": "2025-05-27 19-55-43"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "director": "Martin Scorsese",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+        "date": "2025-05-28 11-00-25"
+    },
+    {
+        "title": "Mr. Robot",
+        "director": "N/A",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTg4NTBiZDAtZTc0YS00NzZlLTg4Y2ItNGQ3M2ZlMDM5MWQzXkEyXkFqcGc@._V1_SX300.jpg",
+        "date": "2025-07-23 20-30-00"
+    }
+]

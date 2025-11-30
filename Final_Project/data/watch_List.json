@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Better Call Saul",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_SX300.jpg",
+        "release": "08 Feb 2015",
+        "genre": "Crime, Drama",
+        "imdb": "9.0/10",
+        "tomato": null
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+        "release": "25 Dec 2013",
+        "genre": "Biography, Comedy, Crime",
+        "imdb": "8.2/10",
+        "tomato": "79%"
+    }
+]
